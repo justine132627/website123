@@ -1,6 +1,6 @@
 /* global styling*/
 html{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif, Amatic SC; ;
   margin: 0rem 2rem;
   background-color: #20a2d9;
 }
@@ -60,8 +60,8 @@ main{
 
 /* H1 uses a google font. Check out https://www.w3schools.com/howto/howto_google_fonts.asp to change - also see line 9 in your html page*/
 h1 {
-  color: darkblue;
-  font-family: 'Caesar Dressing';
+  color: #00d5ff;
+  font-family: 'Amatic SC', sans-serif;';
   font-size: 60px;
   text-align: center;
   margin-bottom: 1rem;
